@@ -18,7 +18,7 @@
     </div>
     <div class="ml-4 flex flex-col justify-between w-full overflow-hidden">
       <div class="flex flex-col">
-        <span class="font-bold lg:text-2xl">{{ link.title }}</span>
+        <span class="overflow-hidden whitespace-nowrap overflow-ellipsis font-bold lg:text-2xl">{{ link.title }}</span>
         <p class="overflow-hidden whitespace-nowrap overflow-ellipsis hover:underline hover:text-blue-500">
           <a href="{{ link.url }}" class="text-gray-400 text-sm" target="blank">({{ link.url }})</a>
         </p>
