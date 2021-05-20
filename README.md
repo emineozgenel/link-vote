@@ -1,6 +1,6 @@
 # link-vote
 
-[Demo Link](https://cli.vuejs.org/config/).
+[Demo Link](https://link-vote.vercel.app/).
 
 ## Project setup
 ```
